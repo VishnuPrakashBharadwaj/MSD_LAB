@@ -39,3 +39,12 @@
   INFO (TECH-180011): Design library '1BM21EC209_test' successfully attached to technology library 'gpdk045'.
   INFO (TECH-180011): Design library '1BM21EC209_test' successfully attached to technology library 'gpdk045'.
   ```
+
+## Creating a new Cellview
+- Go to File > New > Cellview
+- Select your newly created library and give a name to your Cellview.
+
+  ![image](https://github.com/VishnuPrakashBharadwaj/MSD_LAB/assets/39427770/e384ea70-7adf-44cc-a60f-3548509710c0)
+
+- Click OK to create the Cellview.
+- If no problem occurs, an empty Virtuoso Schematic Editor window should open.
