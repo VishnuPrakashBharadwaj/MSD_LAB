@@ -23,3 +23,8 @@
 - Cadence Virtuoso GUI window should open.
 
 ## Creating new library
+- Go to File > New > Library
+- Give a name to your Library.
+- Under Technology File, select 'Attach to an existing technology library'
+  ![library_create](https://github.com/VishnuPrakashBharadwaj/MSD_LAB/assets/39427770/6d5cdac0-278d-42d1-997a-f6b96f15e094)
+
