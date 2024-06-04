@@ -25,6 +25,17 @@
 ## Creating new library
 - Go to File > New > Library
 - Give a name to your Library.
-- Under Technology File, select 'Attach to an existing technology library'
-  ![library_create](https://github.com/VishnuPrakashBharadwaj/MSD_LAB/assets/39427770/6d5cdac0-278d-42d1-997a-f6b96f15e094)
+- Under Technology File, select 'Attach to an existing technology library' and hit apply.
 
+  ![image](https://github.com/VishnuPrakashBharadwaj/MSD_LAB/assets/39427770/1996c54f-8674-440c-8df8-3e719474e6f5)
+
+- A new window will pop up for selecting the technology library. Select gpdk045 and hit apply. Then close both the windows.
+  
+  ![image](https://github.com/VishnuPrakashBharadwaj/MSD_LAB/assets/39427770/c1269490-7851-4f77-b586-45759e5e73e3)
+
+- A success message should be shown in the console in Virtuoso GUI.
+  ```
+  Loaded gpdk045/libInit.il successfully!
+  INFO (TECH-180011): Design library '1BM21EC209_test' successfully attached to technology library 'gpdk045'.
+  INFO (TECH-180011): Design library '1BM21EC209_test' successfully attached to technology library 'gpdk045'.
+  ```
